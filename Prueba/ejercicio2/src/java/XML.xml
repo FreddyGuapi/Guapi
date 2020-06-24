@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cartelera>
+	<pelicula>
+		<codigo>"001"</codigo>
+		<titulo>lluvia de hamburguesas</titulo>
+		<anio>2009</anio>
+		<duracion>
+			<horas>1</horas>
+			<minutos>4</minutos>
+			<segundos>16</segundos>	
+		</duracion>
+		<nacionalidad>española</nacionalidad>
+		<genero>comedia</genero>
+		<clasificacion>Animada</clasificacion>
+		<director>
+			<nombre>Phil </nombre>
+			<apellido>Lord</apellido>
+			<fechanaciemiento>
+				<anio>1975</anio>
+				<mes>07</mes>
+				<dia>12</dia>
+			</fechanaciemiento>
+		</director>
+
+		<reparto>
+			<actorespricipales>
+				<nombresoriginales>Bill Hader</nombresoriginales>
+				<nombresenpelicula>Flin</nombresenpelicula>
+			</actorespricipales>
+
+			<actoressecundarios>
+				<nombresoriginales>Ana Farias</nombresoriginales>
+				<nombresenpelicula>Sam</nombresenpelicula>
+			</actoressecundarios>
+
+			<dobles>
+				<nombresoriginales>Neil Harris</nombresoriginales>
+				<aquiensustituye>Bill Hader</aquiensustituye>
+			</dobles>
+		</reparto>
+
+		<sinopsis>Lluvia de hamburguesas Una película de animación en la que el protagonista es un inventor llamado
+                    Flint Lockwood. A pesar de que el joven aprendiz vive rodeado de extraños aparatos 
+                    y artefactos, se siente frustrado por los numerosos fracasos de sus inventos.</sinopsis>
+	
+	</pelicula>
+</cartelera>
